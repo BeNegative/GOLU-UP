@@ -4,7 +4,7 @@ from os import environ
 # API Configuration
 API_ID = int(os.environ.get("API_ID", "39256507"))
 API_HASH = os.environ.get("API_HASH", "d9f88a9d3d207b8f6dfb08b762c30965")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8506492356:AAFtTie-wFhlAAwniryoHXV9Le4gRia2aUU")
 
 CREDIT = os.environ.get("CREDIT", "GOOGLExBABA")
 # MongoDB Configuration
@@ -59,6 +59,7 @@ Please contact the admin to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
